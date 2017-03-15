@@ -1,0 +1,34 @@
+<RCC>
+  <qresource prefix="mypics">
+    <file>Alert.ico</file>
+    <file>Applications.ico</file>
+    <file>Back.ico</file>
+    <file>Bookmark.ico</file>
+    <file>Char.ico</file>
+    <file>Delete.ico</file>
+    <file>Documents.ico</file>
+    <file>Download.ico</file>
+    <file>Favorite.ico</file>
+    <file>Forward.ico</file>
+    <file>HD.ico</file>
+    <file>Home.ico</file>
+    <file>Mail.ico</file>
+    <file>Package.ico</file>
+    <file>Refresh.ico</file>
+    <file>RSS.ico</file>
+    <file>Search.ico</file>
+    <file>Security.ico</file>
+    <file>Select.ico</file>
+    <file>Settings.ico</file>
+    <file>Speaker.ico</file>
+    <file>Stats.ico</file>
+    <file>Stop.ico</file>
+    <file>System.ico</file>
+    <file>Temporary.ico</file>
+    <file>Upload.ico</file>
+    <file>User.ico</file>
+    <file>Video.ico</file>
+    <file>Weather.ico</file>
+    <file>Web.ico</file>
+  </qresource>
+</RCC>

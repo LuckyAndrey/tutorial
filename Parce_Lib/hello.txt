@@ -1,0 +1,15 @@
+https://www.livelib.ru/book/1002000694-mba-bez-vody-aleksej-harinskij
+https://j.livelib.ru/boocover/1002000694/200/8485/Aleksej_Harinskij_%E2%80%94_MBA_bez_vody.jpg
+
+#contentwrapper > div:nth-child(3) > div:nth-child(1) > div.column-670.subcontainer >
+ table
+
+<img src="https://j.livelib.ru/boocover/1002000694/200/8485/Aleksej_Harinskij_%E2%80%94_MBA_bez_vody.jpg" alt="Алексей Харинский — MBA без воды" title="Алексей Харинский — MBA без воды" style="background-color: #ffffff;width:200px; margin: 0 auto; display: block;">
+ > tbody
+ > tr:nth-child(25) >
+ td.column-210 >
+  div.block >
+  div
+  >
+  a
+  > img

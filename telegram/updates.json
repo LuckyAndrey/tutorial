@@ -1,0 +1,107 @@
+{
+   "ok": true,
+   "result": [
+      {
+         "update_id": 326550272,
+         "message": {
+            "from": {
+               "username": "andy46",
+               "first_name": "Andrey",
+               "id": 371744096
+            },
+            "message_id": 2,
+            "text": "hi",
+            "date": 1489042796,
+            "chat": {
+               "username": "andy46",
+               "type": "private",
+               "first_name": "Andrey",
+               "id": 371744096
+            }
+         }
+      },
+      {
+         "update_id": 326550273,
+         "message": {
+            "from": {
+               "username": "andy46",
+               "first_name": "Andrey",
+               "id": 371744096
+            },
+            "message_id": 4,
+            "text": "jfndwen i",
+            "date": 1489048103,
+            "chat": {
+               "username": "andy46",
+               "type": "private",
+               "first_name": "Andrey",
+               "id": 371744096
+            }
+         }
+      },
+      {
+         "update_id": 326550274,
+         "message": {
+            "from": {
+               "username": "andy46",
+               "first_name": "Andrey",
+               "id": 371744096
+            },
+            "message_id": 5,
+            "text": "ןנממאמûג ר ארצשףמ א",
+            "date": 1489048111,
+            "chat": {
+               "username": "andy46",
+               "type": "private",
+               "first_name": "Andrey",
+               "id": 371744096
+            }
+         }
+      },
+      {
+         "update_id": 326550275,
+         "message": {
+            "text": "/start",
+            "chat": {
+               "username": "andy46",
+               "type": "private",
+               "first_name": "Andrey",
+               "id": 371744096
+            },
+            "from": {
+               "username": "andy46",
+               "first_name": "Andrey",
+               "id": 371744096
+            },
+            "message_id": 6,
+            "entities": [
+               {
+                  "type": "bot_command",
+                  "length": 6,
+                  "offset": 0
+               }
+            ],
+            "date": 1489055627
+         }
+      },
+      {
+         "update_id": 326550276,
+         "message": {
+            "from": {
+               "username": "andy46",
+               "first_name": "Andrey",
+               "id": 371744096
+            },
+            "message_id": 7,
+            "text": "ןנטגוע",
+            "date": 1489055636,
+            "chat": {
+               "username": "andy46",
+               "type": "private",
+               "first_name": "Andrey",
+               "id": 371744096
+            }
+         }
+      }
+   ]
+}

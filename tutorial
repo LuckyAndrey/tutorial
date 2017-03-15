@@ -1,0 +1,32 @@
+
+cat = 5
+dog = 6
+print(cat+dog)
+total = cat + dog
+print((total/dog))
+
+print(22**33)
+
+print(abs(pow(9,9)))
+
+print(float(12))
+help(abs)
+print(id(dog))
+
+def convertToCels(faren):
+    return (faren-32)*5/9
+
+print(convertToCels(100))
+
+def f(x):
+    x = 2*x
+    return x
+
+x =1
+x = f(x+1 )+f(x+2)
+print(x)
+help(print)
+
+
+
+
